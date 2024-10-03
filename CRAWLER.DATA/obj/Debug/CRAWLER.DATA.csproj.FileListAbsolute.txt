@@ -1,0 +1,6 @@
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\bin\Debug\CRAWLER.DATA.dll
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\bin\Debug\CRAWLER.DATA.pdb
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\obj\Debug\CRAWLER.DATA.csproj.AssemblyReference.cache
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\obj\Debug\CRAWLER.DATA.csproj.CoreCompileInputs.cache
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\obj\Debug\CRAWLER.DATA.dll
+D:\OneDrive - VNU-HCMUS\Documents\GitHub\spiderbot\CRAWLER.DATA\obj\Debug\CRAWLER.DATA.pdb
